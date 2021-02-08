@@ -1,0 +1,13 @@
+E:\FacebookPoster\FacebookPoster\FacebookPoster\bin\Debug\FacebookPoster.exe.config
+E:\FacebookPoster\FacebookPoster\FacebookPoster\bin\Debug\FacebookPoster.exe
+E:\FacebookPoster\FacebookPoster\FacebookPoster\bin\Debug\FacebookPoster.pdb
+E:\FacebookPoster\FacebookPoster\FacebookPoster\bin\Debug\WebDriver.dll
+E:\FacebookPoster\FacebookPoster\FacebookPoster\bin\Debug\WebDriver.xml
+E:\FacebookPoster\FacebookPoster\FacebookPoster\obj\Debug\FacebookPoster.csprojAssemblyReference.cache
+E:\FacebookPoster\FacebookPoster\FacebookPoster\obj\Debug\FacebookPoster.Properties.Resources.resources
+E:\FacebookPoster\FacebookPoster\FacebookPoster\obj\Debug\FacebookPoster.csproj.GenerateResource.cache
+E:\FacebookPoster\FacebookPoster\FacebookPoster\obj\Debug\FacebookPoster.csproj.CoreCompileInputs.cache
+E:\FacebookPoster\FacebookPoster\FacebookPoster\obj\Debug\FacebookPoster.csproj.CopyComplete
+E:\FacebookPoster\FacebookPoster\FacebookPoster\obj\Debug\FacebookPoster.exe
+E:\FacebookPoster\FacebookPoster\FacebookPoster\obj\Debug\FacebookPoster.pdb
+E:\FacebookPoster\FacebookPoster\FacebookPoster\obj\Debug\FacebookPoster.Form1.resources
